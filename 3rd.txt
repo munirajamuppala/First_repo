@@ -1,3 +1,0 @@
-i love vim editor 
-vim is a type ediotor . 
-in windows notepad is text editior simmilarlly in linux vim is a text editox.
